@@ -1,3 +1,3 @@
-# IRC-Server-app
+# TP Application Reparties
 
-University Assignment
+Seveur Chat
